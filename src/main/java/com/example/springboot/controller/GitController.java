@@ -9,6 +9,6 @@ public class GitController {
     @RequestMapping("git")
     public String git(){
 
-        return "Second Git...";
+        return "Second Git...项目经理conflict...";
     }
 }
